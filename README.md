@@ -1,13 +1,13 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi 👋, I'm Liban Abduba</h1>
-<h3 align="center">Machine Learning Engineer and Researcher</h3>
+<h3 align="center">AI Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SecretGrimIriomotecat-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=libanabduba&label=Profile%20views&color=0e75b6&style=flat" alt="libanabduba" /> </p>
 
 - 🔭 I’m currently working on **Medical LLM**
-
-- 💬 Ask me about **ML, DL,NLP and CV**
+  
+- 💬 Ask me about **ML, DL, NLP and Backend Development**
 
 - 📫 How to reach me **libenpmat@gmail.com**
 
